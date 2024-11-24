@@ -8,6 +8,8 @@
 
 ![Rodolfo Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=orodolfodev&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orodolfodev)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu utilizo no meu dia 
 
 <div style="display: inline_block"><br>
